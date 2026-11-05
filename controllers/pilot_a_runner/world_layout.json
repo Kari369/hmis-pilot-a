@@ -1,0 +1,19 @@
+{
+  "robot_start_translation": [
+    0.0,
+    0.0,
+    0.45
+  ],
+  "robot_start_rotation": [
+    0,
+    0,
+    1,
+    0
+  ],
+  "operator_translation": [
+    6.0,
+    4.0,
+    1.2929
+  ],
+  "operator_ground_z": 0.0229
+}
